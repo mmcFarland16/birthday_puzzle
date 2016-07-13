@@ -1,7 +1,7 @@
 # birthday_puzzle
 Happy Birthday, Megan!
 * This is a puzzle on multiple levels.
-* I will try to add 1 clue everyday.
+* I will occasionally add a clue.
 
-Clues:
-1. It is like Sudoku.
+## Clues:
+1. See Issue \#1
